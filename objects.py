@@ -11,7 +11,6 @@ print(my_dog.bark()) # Output: Buddy barks!
 hospital_patient = Patient("Allan", "Amos")
 shopping_cart = cart("groceries", "detergents")
 hostel_housing = housing("single", "double")
-retail_product = product("laptop", "smartphone")
-university_course = course("math", "science")
-
+music_album = album("hiphop", "rnb")
+favorite_resorts = resorts("beach", "mountain")
 
